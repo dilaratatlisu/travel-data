@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Eiffel Tower",
+    "city": "Paris",
+    "country": "France",
+    "imageUrl": "https://example.com/eiffel.jpg",
+    "isPopular": true
+  },
+  {
+    "title": "Great Wall",
+    "city": "Beijing",
+    "country": "China",
+    "imageUrl": "https://example.com/greatwall.jpg",
+    "isPopular": false
+  }
+]
