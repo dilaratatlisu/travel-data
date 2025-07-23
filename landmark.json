@@ -1,27 +1,22 @@
 [
   {
-    "id": "1",
-    "name": "Ayasofya",
-    "country": "Turkey",
-    "city": "Istanbul",
-    "description": "Tarihi bir cami ve müze.",
-    "imageUrl": "https://your-image-link.com/ayasofya.jpg",
-    "latitude": 41.0086,
-    "longitude": 28.9802,
-    "category": "Historic",
+    "id": "Q123",
+    "label": "Platonic Academy",
+    "description": "Historic site in Athens",
+    "city": "Athens",
+    "country": "Greece",
+    "latitude": 37.9838,
+    "longitude": 23.7275,
     "isPopular": true
   },
   {
-    "id": "2",
-    "name": "Louvre Müzesi",
-    "country": "France",
-    "city": "Paris",
-    "description": "Dünyanın en büyük müzelerinden biri.",
-    "imageUrl": "https://your-image-link.com/louvre.jpg",
-    "latitude": 48.8606,
-    "longitude": 2.3376,
-    "category": "Museum",
-    "isPopular": true
+    "id": "Q456",
+    "label": "Merv",
+    "description": "Ancient city",
+    "city": "Bayramaly",
+    "country": "Turkmenistan",
+    "latitude": 37.6612,
+    "longitude": 62.1802,
+    "isPopular": false
   }
 ]
-
